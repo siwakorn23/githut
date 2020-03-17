@@ -4,7 +4,11 @@
   <title>My first styled page</title>
   <style type="text/css">
   <style type="text/css">
+<<<<<<< HEAD
 	<style type="text/css">
+=======
+  <style type="text/css">
+>>>>>>> fc225addc6e9fecfcb6bdbd1039796718d07e037
   body {
     color: purple;
     background-color: #d8da3d }
